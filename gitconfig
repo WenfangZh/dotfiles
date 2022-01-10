@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = wenfangz96@gmail.com
+	name = Wenfang Zhou
